@@ -6,8 +6,8 @@
 
 
 - 👨‍💻 All of my projects are available :
-- at kreasi.nurulfikri.ac.id
-- https://github.com/nabilrobbani84/MF-Project2-Kelompok4
+  at kreasi.nurulfikri.ac.id
+  https://github.com/nabilrobbani84/MF-Project2-Kelompok4
 
 - 📫 How to reach me **nabilrobbani6@gmail.com**
 

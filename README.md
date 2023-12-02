@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nabil Robbani</h1>
 <h3 align="center"> pengembang frontend dari Indonesia.</h3>
 
-<p align="left"> <img src="www.chawtechsolutions.com/wp-content/uploads/2019/03/developer-dribbble.gif" alt="nabilr" /> </p>
+<p align="left"> <img src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/developer-dribbble.gif" alt="nabilr" /> </p>
 <img align="right" alt="Coding" width="250" height="400" src="byu.jpg">
 
 - 👨‍💻 All of my projects are available at kreasi.nurulfikri.ac.id

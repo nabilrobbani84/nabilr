@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nabil Robbani</h1>
-<h3 align="center"> pengembang frontend dari Indonesia.</h3>
+<h3 align="center"> frontend developer from Indonesia.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/developer-dribbble.gif"/>
 
